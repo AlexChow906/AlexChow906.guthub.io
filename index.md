@@ -14,3 +14,13 @@
 
 ## Masks
 Masks can help prevent the spread of the virus from the person wearing the mask to others. Masks alone do not protect against COVID-19, and should be combined with physical distancing and hand hygiene. Follow the advice provided by your local health authority.
+
+There are different levels of masks that provide you with different types of protection.
+
+* Level 1: Low barrier protection for general use for low-risk, nonsurgical procedures and exams that do not involve aerosols, sprays and fluids. An ear loop mask is a level 1 mask. ASTM level 1 masks are the general standard for both surgical and procedural use.
+
+* Level 2: Moderate barrier protection for low-to-moderate levels of aerosols, sprays and fluids.
+
+* Level 3: Maximum barrier protection for any situation that has the potential for exposure to heavy levels of aerosols, sprays and fluids. Cardinal Health recommends this level as a best practice for supporting OR safety initiatives.
+
+![Image of Yaktocat](https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GY5QBNPRJJAWRLOZVLLEUQTC3E.jpg)
