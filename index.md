@@ -1,3 +1,18 @@
+# Symptoms of Coronavirus
+Most Common Symptoms:
+* Fever
+* Dry cough 
+* Tiredness
+
+Uncommon Symptoms:
+* Aches and pains
+* Sore throat
+* Diarrhoea
+* Conjunctivitis
+* Headache
+* Loss of taste or smell
+* A rash on skin, or discolouration of fingers or toes
+
 # How to Prevent Coronavirus
 1. Protect yourself and others around you by knowing the facts and taking appropriate precautions
 2. Follow advice provided by your local health authority
